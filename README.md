@@ -77,7 +77,8 @@ This is a graphical desktop application for managing bank accounts, built using 
 
 ## Screenshots 🖼️
 
-*Include screenshots of the application, such as the main screen, account creation, deposit, and withdrawal pages.*
+![Uploading image.png…]()
+
 
 ---
 
