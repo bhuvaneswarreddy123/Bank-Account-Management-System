@@ -91,6 +91,8 @@ This is a graphical desktop application for managing bank accounts, built using 
 - When we click on the withdraw
 
   ![image alt](https://github.com/bhuvaneswarreddy123/Bank-Account-Management-System/blob/3e6b25a1499735f920b1247cb7df0350ff68b406/images/withdraw.png)
+
+**The updates in the website will be saved in mysql in backend **
   
 
 
