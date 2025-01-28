@@ -77,7 +77,7 @@ This is a graphical desktop application for managing bank accounts, built using 
 
 ## Screenshots 🖼️
 
-![Uploading image.png…]()
+![image alt](https://github.com/bhuvaneswarreddy123/Bank-Account-Management-System/blob/main/images/BankDetails.png?raw=true)
 
 
 ---
